@@ -1,0 +1,10 @@
+function piResponse() {
+piSetCookie('visitor_id27572', '234554698', 3650);
+piSetCookie('visitor_id27572-hash', '4e36a724fc1aeb0c91d5d7efa920fec9b1f102f7c17b8950d413cd3133b08a9e3c41bdff3fd0ccb6798e37b5052c5db6a8f9cba5', 3650);
+
+}
+piResponse();
+
+
+
+
